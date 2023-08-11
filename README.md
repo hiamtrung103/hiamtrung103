@@ -5,13 +5,18 @@
     <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,cs,java,python,nodejs,react,angular,discord" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/hiamtrung102">
+    <img src="https://skillicons.dev/icons?i=androidstudio,unity,php,mongodb,docker,mysql" />
+  </a>
+</p>
 
 * 🖥️ Coding: C/C++, Python, Java, JavaScript...
 * ✨ FavouriteLanguage: JavaScript, Typescript
 * 📝 Language: EN, VIE
 * ⛄️ Gender: Male [he/him]
 * 🌏 Location: Vietnamese, United States
-* 🌠 Irrelevant: Photographer, Editor, Traveling + Eating... 🤟
+* 🌠 Irrelevant: Photographer, Editor, Listening to Music, Traveling + Eating... 🤟
 * 😂 fun fact: waiting 4 love 🤦‍♂️
 
 ### More Information 👇
