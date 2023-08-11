@@ -14,5 +14,5 @@
 * 🌠 Irrelevant: Photographer, Editor, Traveling + Eating... 🤟
 * 😂 fun fact: waiting 4 love 🤦‍♂️
 
-### Need more 👇
+### More Information 👇
 ## 🌐 https://hiamtrung102.online/
