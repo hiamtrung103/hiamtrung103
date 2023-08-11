@@ -1,8 +1,18 @@
-# Hi there 👋
+<h1 align="center"> Skills <img src="https://cdn.discordapp.com/attachments/990995960945586250/1101026524062298122/3895-blueclouds.gif" height="45px"></h1>
 
-🎅 Full name: Nguyen Hoang Trung; 
-🎂 Birth: 08-01-2002; 
-☃️ Gender: Male [he/him]; 
-🌠 Irrelevant: Photographer, Listening to Music, Traveling, Eating 🤣
-📩 email: hiamtrung102@protonmail.com
+<p align="center">
+  <a href="https://github.com/hiamtrung102">
+    <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,cs,java,python,nodejs,react,angular,discord" />
+  </a>
+</p>
+
+* 🖥️ Coding: C/C++, Python, Java, JavaScript...
+* ✨ FavouriteLanguage: JavaScript, Typescript
+* 📝 Language: EN, VIE
+* ⛄️ Gender: Male [he/him]
+* 🌏 Location: Vietnamese, United States
+* 🌠 Irrelevant: Photographer, Editor, Traveling + Eating... 🤟
+* 😂 fun fact: waiting 4 love 🤦‍♂️
+
+### Need more 👇
 ## 🌐 https://hiamtrung102.online/
