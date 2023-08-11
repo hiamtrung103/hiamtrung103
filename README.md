@@ -19,5 +19,7 @@
 * 🌠 Irrelevant: Photographer, Editor, Listening to Music, Traveling + Eating... 🤟
 * 😂 fun fact: waiting 4 love 🤦‍♂️
 
+All projects are currently private. Please contact me for more information.
+
 ### More Information 👇
 ## 🌐 https://hiamtrung102.online/
