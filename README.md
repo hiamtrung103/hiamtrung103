@@ -21,7 +21,9 @@
 * 😂 fun fact: waiting 4 love 🤦‍♂️
 
 ## I am a developer of malicious code, just kidding, don't believe what I say :)
-All projects are currently private. Please contact me for more information.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiamtrung103&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiamtrung103&hide_progress=true)
 
 ### More Information 👇
 ## 🌐 https://hiamtrung102.online/
