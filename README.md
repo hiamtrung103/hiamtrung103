@@ -20,7 +20,7 @@
 * 🌠 Irrelevant: Photographer, Editor, Listening to Music, Traveling + Eating... 🤟
 * 😂 fun fact: waiting 4 love 🤦‍♂️
 
-## I am a developer of malicious code, just kidding, don't believe what I say :)
+## I am a malicious code developer, but I am a mad developer, I'm just joking. Don't believe what I say ;__;"
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiamtrung103&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiamtrung103&hide_progress=true)
