@@ -11,7 +11,7 @@
   </a>
 </p>
 
-## I am a developer of malicious code, just kidding, don't believe what I say :)
+---
 * 🖥️ Coding: C/C++, Python, Java, JavaScript...
 * ✨ FavouriteLanguage: JavaScript, Typescript
 * 📝 Language: EN, VIE
@@ -20,6 +20,7 @@
 * 🌠 Irrelevant: Photographer, Editor, Listening to Music, Traveling + Eating... 🤟
 * 😂 fun fact: waiting 4 love 🤦‍♂️
 
+## I am a developer of malicious code, just kidding, don't believe what I say :)
 All projects are currently private. Please contact me for more information.
 
 ### More Information 👇
