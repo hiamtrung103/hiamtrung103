@@ -11,6 +11,7 @@
   </a>
 </p>
 
+## I am a developer of malicious code, just kidding, don't believe what I say :)
 * 🖥️ Coding: C/C++, Python, Java, JavaScript...
 * ✨ FavouriteLanguage: JavaScript, Typescript
 * 📝 Language: EN, VIE
