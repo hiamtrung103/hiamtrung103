@@ -18,7 +18,6 @@
 * ⛄️ Gender: Male [he/him]
 * 🌏 Location: Vietnamese, United States
 * 🌠 Irrelevant: Photographer, Editor, Listening to Music, Traveling + Eating... 🤟
-* 😂 fun fact: waiting 4 love 🤦‍♂️
 
 ## cailone
 
