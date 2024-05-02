@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://github.com/hiamtrung102">
-    <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,cs,java,python,nodejs,react,angular,discord" />
+    <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,cs,java,python,nodejs,react,discord, discordjs, npm" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/hiamtrung102">
-    <img src="https://skillicons.dev/icons?i=androidstudio,unity,php,mongodb,docker,mysql" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,unity,mongodb,docker,mysql" />
   </a>
 </p>
 
