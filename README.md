@@ -16,7 +16,7 @@
 * ✨ FavouriteLanguage: JavaScript, Typescript
 * 📝 Language: EN, VIE
 * ⛄️ Gender: Male [he/him]
-* 🌏 Location: Vietnamese, United States
+* 🌏 Location: Vietnamese
 * 🌠 Irrelevant: Photographer, Editor, Listening to Music, Traveling + Eating... 🤟
 
 ## more
