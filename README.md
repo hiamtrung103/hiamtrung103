@@ -19,10 +19,5 @@
 * 🌏 Location: Vietnamese
 * 🌠 Irrelevant: Photographer, Editor, Listening to Music, Traveling + Eating... 🤟
 
-## more
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiamtrung103&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiamtrung103&hide_progress=true)
-
 ### More Information 👇
 ## 🌐 https://hiamtrung102.online/
