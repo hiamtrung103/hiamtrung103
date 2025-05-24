@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/hiamtrung102">
-    <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,cs,java,python,nodejs,react,discord, discordjs, npm" />
+    <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,cs,java,python,nodejs,react,discord" />
   </a>
 </p>
 <p align="center">
