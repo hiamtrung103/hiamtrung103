@@ -13,7 +13,7 @@
 
 ---
 * 🖥️ Coding: C/C++, Python, Java, JavaScript...
-* ✨ FavouriteLanguage: JavaScript, Typescript
+* ✨ FavouriteLanguage: JavaScript, Typescript, Python
 * 📝 Language: EN, VIE
 * ⛄️ Gender: Male [he/him]
 * 🌏 Location: Vietnamese
